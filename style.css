@@ -59,7 +59,9 @@ img{
 .list_item-last{
     margin-bottom: 2em;
 }
-
+.list_item-last{
+    margin-bottom: 3em;
+}
 i{
     opacity: .9;
     display: inline-block;
